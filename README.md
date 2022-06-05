@@ -5,7 +5,7 @@ A discord bot that can show user 5 most used attachments for any weapon in the g
 ## Build Using
 - [discord.js](https://discord.js.org/#/)
 
-## Stack
+## Used stack
 - [node-fetch - npm (npmjs.com)](https://www.npmjs.com/package/node-fetch)
 - [Express - Node.js web application framework (expressjs.com)](https://expressjs.com/)
 
